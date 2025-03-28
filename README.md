@@ -36,15 +36,15 @@ Good vibes are very important to me. Whether it is at work, at home, or anywhere
 * **Jio Music:**
     * A free music player with integrated access to popular streaming services.
     * **Contributions:** Delved into the behind-the-scenes work on audio streaming, reverse-engineering APIs, and optimizing apps for memory.
-    * **Link to Google Play Store:** [https://play.google.com/store/apps/details?id=co.whitedragon.music\_player](https://play.google.com/store/apps/details?id=co.whitedragon.music_player)
+    * **Link to Google Play Store:** [Jio Music](https://play.google.com/store/apps/details?id=co.whitedragon.music_player)
 * **Kitchen Up:**
     * A beautifully designed recipes application with integrated AI capabilities.
     * **Highlight:** Demonstrates expertise in UI/UX design and AI integration.
-    * **Link to Google Play Store:** [https://play.google.com/store/apps/details?id=co.whitedragon.little\_kitchen](https://play.google.com/store/apps/details?id=co.whitedragon.little_kitchen)
+    * **Link to Google Play Store:** [Kitchen Up](https://play.google.com/store/apps/details?id=co.whitedragon.little_kitchen)
 * **Watchland:**
     * A Samsung Watch application with over 100,000 downloads.
     * **Significance:** My first major application, showcasing my early success in mobile development.
-    * **Link to project/information:** [https://watchland.ca/](https://watchland.ca/)
+    * **Link to project/information:** [Watchland](https://watchland.ca/)
 * **Mapgears:**
     * A real-time mapping and tracking solution for various industries (sport, waste removal, etc.).
     * **Responsibilities:** Leading development and decision-making for Mapgears' mobile product ecosystem.
