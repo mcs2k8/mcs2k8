@@ -1,5 +1,5 @@
 #   Alex (mcs2k8) - Senior Mobile and Full-Stack Developer/Tech Lead
-<img src="screen1.png" alt="Project Logo" height="300"><img src="screen2.png" alt="Project Logo" height="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="screen3.png" alt="Project Logo" height="300"><img src="screen4.png" alt="Project Logo" height="300"><img src="screen5.png" alt="Project Logo" height="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="screen6.png" alt="Project Logo" height="300">
+<img src="screen8.png" alt="Project Logo" height="250"><img src="screen1.png" alt="Project Logo" height="250"><img src="screen2.png" alt="Project Logo" height="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="screen7.png" alt="Project Logo" height="250"><img src="screen3.png" alt="Project Logo" height="250"><img src="screen4.png" alt="Project Logo" height="250"><img src="screen5.png" alt="Project Logo" height="250">
 
 <br>👋  Hello! I'm Alex, a highly experienced Senior Mobile Developer and Tech Lead with over 10 years of experience in iOS, Android, and cross-platform development (Flutter/React Native). I have a proven ability to architect scalable mobile solutions, lead teams, and deliver high-performance applications. My expertise spans full-stack development, bridging mobile and backend technologies to create comprehensive solutions.
 
